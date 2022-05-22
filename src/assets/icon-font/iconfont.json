@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21831382",
+      "name": "多选框2",
+      "font_class": "duoxuankuang2",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    }
+  ]
+}
